@@ -58,7 +58,14 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 :vulcan_salute: <p>Todos podem entrar em contato comigo pelo meios citados nos icones no topo deste Readme em baixo do meu nome, só tenham paciência porque posso demorar um pouco a responder, mas respondo!</p>
 
 ---
-<div display="inline-block">
+<p align="center">
 <a href="https://github.com/Diego-de-Souza"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&hide=issues,contribs&show_icons=true&theme=radical" border-radius="40px"/></a>
 <a href="https://github.com/Diego-de-Souza"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" border-radius="40px"/></a>
-</div>
+</p>
+
+<p align="center">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
