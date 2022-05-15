@@ -58,9 +58,7 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 :vulcan_salute: <p>Todos podem entrar em contato comigo pelo meios citados nos icones no topo deste Readme em baixo do meu nome, só tenham paciência porque posso demorar um pouco a responder, mas respondo!</p>
 
 ---
-<p align="center">
-<a href="https://github.com/Diego-de-Souza">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Diego-de-Souza&hide=issues,contribs&show_icons=true&theme=algolia&include_all_commits=true" border-radius="40px"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia" border-radius="40px"/>
-</a>
-</p>
+
+| <a href="https://github.com/Diego-de-Souza/github-readme-status"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&hide=issues,contribs&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Diego de Souza github stats"/></a> | <a href="https://github.com/Diego-de-Souza/github-readme-status"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&hide_border=true"/></a> |
+| ------------- | ------------- |
+
