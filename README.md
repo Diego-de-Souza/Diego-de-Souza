@@ -1,3 +1,5 @@
+<img align="right" width="250px" style="margin-top:-20px" src="./Diego_avatar.png">
+
 
 ## Hello Guys!
 ## Meu é **Diego de Souza** 
