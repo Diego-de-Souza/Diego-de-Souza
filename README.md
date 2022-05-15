@@ -25,7 +25,7 @@
 ---
 ## Hello Devs!
 
-Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia. Iniciei minha carrera profissional como Técnico em Eletromecânica, depois me formei no curso superior como Tecnólogo em Mecatrônica Industrial onde conheci a programação, foi simplesmente amor a primeira codada, ao terminar a faculdade fui trabalhar com programação de CLP o que gosto, mas não propriamente o que eu queria, depois de algum tempo fui para area de manutenção corretiva e preventiva a agitação me deixava feliz, mas resolvi ver videos de programação html e mobile, foi ai que deu aquele plim plim, dai em diante não parei mais e continuo aprendendo....um eterno adolescente na programação!
+<p>Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia. Iniciei minha carrera profissional como Técnico em Eletromecânica, depois me formei no curso superior como Tecnólogo em Mecatrônica Industrial onde conheci a programação, foi simplesmente amor a primeira codada, ao terminar a faculdade fui trabalhar com programação de CLP o que gosto, mas não propriamente o que eu queria, depois de algum tempo fui para area de manutenção corretiva e preventiva a agitação me deixava feliz, mas resolvi ver videos de programação html e mobile, foi ai que deu aquele plim plim, dai em diante não parei mais e continuo aprendendo....um eterno adolescente na programação!</p>
 
 </br>
 <div align="center">
@@ -35,7 +35,7 @@ Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia.
 </br>
 ----
 
-### Ferramentas e tecnoligias
+### Ferramentas e tecnologias
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Icone C"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="icone Html5"/></code>
@@ -51,5 +51,5 @@ Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia.
  
 ----
 <div>
-    :vulcan_salute: <p>Todos podem entrar em contato comigo pelo meios citados nos icones no topo deste Readme em baixo do meu nome, só tenham paciência porque posso demorar um pouco a responder, mas respondo!</p>
+    :vulcan_salute:<p>Todos podem entrar em contato comigo pelo meios citados nos icones no topo deste Readme em baixo do meu nome, só tenham paciência porque posso demorar um pouco a responder, mas respondo!</p>
 </div>
