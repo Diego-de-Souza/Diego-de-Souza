@@ -4,7 +4,7 @@
 </br>
 
 <div display="inline-block">
-    <h1 align="left">**Diego de Souza**</h1>
+    **<h1 align="left">Diego de Souza</h1>**
     <a href="https://www.instagram.com/jahdigao/">
     <img align="left" width="80px" src="insta.png" alt="instagram" style="vertical-align:top;">
     </a> 
@@ -25,7 +25,11 @@
 ---
 ## Hello Devs!
 
-<p>Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia. Comecei minha carrera profissional como Técnico em Eletromecânica, depois me formei no curso superior como Tecnólogo em Mecatrônica Industrial onde conheci a programação, foi simplesmente amor a primeira codada, ao terminar a faculdade fui trabalhar com programação de CLP o que gosto, mas não propriamente o que eu queria. Apos algum tempo fui para area de manutenção corretiva e preventiva a agitação me deixava feliz, mas resolvi ver videos de programação html e mobile, foi ai que deu aquele plim plim, dai em diante não parei mais e continuo aprendendo....um eterno adolescente na programação!</p>
+Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia. 
+
+Comecei minha carrera profissional como Técnico em Eletromecânica, depois me formei no curso superior como Tecnólogo em Mecatrônica Industrial onde conheci a programação, foi simplesmente amor a primeira codada, ao terminar a faculdade fui trabalhar com programação de CLP o que gosto, mas não propriamente o que eu queria.
+
+Depois trabalhei com manutenção industrial, até gostei da correria, mas então resolvi ver videos de programação html e mobile, foi ai que deu aquele plim plim, dai em diante não parei mais e continuo aprendendo....um eterno adolescente na programação!
 
 </br>
 <div align="center">
