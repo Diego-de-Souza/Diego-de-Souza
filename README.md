@@ -4,7 +4,7 @@
 </br>
 
 <div display="inline-block">
-    **<h1 align="left">Diego de Souza</h1>**
+    <h1 align="left" font-weight="700">Diego de Souza</h1>
     <a href="https://www.instagram.com/jahdigao/">
     <img align="left" width="80px" src="insta.png" alt="instagram" style="vertical-align:top;">
     </a> 
