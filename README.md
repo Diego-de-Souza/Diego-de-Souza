@@ -36,7 +36,7 @@ Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia.
 
 ### Ferramentas e tecnoligias
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /></code>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
