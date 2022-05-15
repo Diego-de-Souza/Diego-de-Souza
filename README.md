@@ -38,8 +38,8 @@ Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia.
 ### Ferramentas e tecnoligias
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Icone C"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="icone Html5"/></code>  
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="icone CSS3"/></code>  
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="icone Html5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="icone CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Icone JavaScript"/></code>
 
          
@@ -49,3 +49,7 @@ Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Icone Kotlin"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Icone Reactjs"/></code>
  
+----
+<div>
+    :vulcan_salute: <p>Todos podem entrar em contato comigo pelo meios citados nos icones no topo deste Readme em baixo do meu nome, só tenham paciência porque posso demorar um pouco a responder, mas respondo!</p>
+</div>
