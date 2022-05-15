@@ -59,7 +59,6 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 
 ---
 <p align="center">
-<a href="https://github.com/Diego-de-Souza"><img height="50%" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&hide=issues,contribs&show_icons=true&theme=radical" border-radius="10px"/>
-
-<a href="https://github.com/Diego-de-Souza"><img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" border-radius="10px"/>
+<a href="https://github.com/Diego-de-Souza"><img height="50%" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&hide=issues,contribs&show_icons=true&theme=radical" border-radius="40px"/>
+<a href="https://github.com/Diego-de-Souza"><img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" border-radius="40px"/>
 </p>
