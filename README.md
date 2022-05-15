@@ -5,10 +5,21 @@
 
 <div display="inline-block">
     <h1 align="left">Diego de Souza</h1>
-    <a href="https://www.instagram.com/jeniblo_dev/">
+    <a href="https://www.instagram.com/jahdigao/">
     <img align="left" width="80px" src="insta.png" alt="instagram" style="vertical-align:top;">
     </a> 
+    <a href="https://www.facebook.com/diegodesouza102">
+    <img align="left" width="80px" src="face.png" alt="facebook" style="vertical-align:top;">
+    </a>
+    <a href="https://www.linkedin.com/in/diego-de-souza-50638282/">
+    <img align="left" width="80px" src="linkedin.png" alt="linkedin" style="vertical-align:top;">
+    </a>
+    <a href="mailto:diegodesouza.souza@gmail.com">
+    <img align="left" width="80px" src="email.png" alt="email" style="vertical-align:top;">
+    </a>
 </div>
+
+---
 ## Hello Guys!
 ## Meu é **Diego de Souza** 
 
