@@ -54,6 +54,9 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Icone Reactjs"/></code>
  
 ----
-<div>
-    :vulcan_salute:<p>Todos podem entrar em contato comigo pelo meios citados nos icones no topo deste Readme em baixo do meu nome, só tenham paciência porque posso demorar um pouco a responder, mas respondo!</p>
-</div>
+
+:vulcan_salute: <p>Todos podem entrar em contato comigo pelo meios citados nos icones no topo deste Readme em baixo do meu nome, só tenham paciência porque posso demorar um pouco a responder, mas respondo!</p>
+
+---
+
+[![Estatísticas do GitHub do Diego de Souza](https://github-readme-stats.vercel.app/api ?username=Diego-de-Souza )](https://github.com/Diego-de-Souza/github-readme-stats)
