@@ -1,16 +1,22 @@
-### Hi there 👋
+## {c:blue}Hello Guys!{/c}
+## Meu é **Diego de Souza** 
 
-<!--
-**Diego-de-Souza/Diego-de-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seja Bem vidno ao meu perfil, sinta-se a vontade para olhar meus repositório, tirar idéias deles ou até mesmo pontuar possíveis melhorias.
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="200px"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
+
+---
+
+### Ferramentas e tecnoligias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+
+### Estou aprendendo
+           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  
