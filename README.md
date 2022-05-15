@@ -27,18 +27,21 @@
 
 Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia. Iniciei minha carrera profissional como Técnico em Eletromecânica, depois me formei no curso superior como Tecnólogo em Mecatrônica Industrial onde conheci a programação, foi simplesmente amor a primeira codada, ao terminar a faculdade fui trabalhar com programação de CLP o que gosto, mas não propriamente o que eu queria, depois de algum tempo fui para area de manutenção corretiva e preventiva a agitação me deixava feliz, mas resolvi ver videos de programação html e mobile, foi ai que deu aquele plim plim, dai em diante não parei mais e continuo aprendendo....um eterno adolescente na programação!
 
-----
+</br>
 
 <div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
----
+</br>
 
 ### Ferramentas e tecnoligias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 
 ### Estou aprendendo
            
