@@ -1,6 +1,14 @@
 <img align="right" width="250px" style="margin-top:-20px" src="./Diego_avatar.png">
 
+</br>
+</br>
 
+<div display="inline-block">
+    <h1 align="left">Diego de Souza</h1>
+    <a href="https://www.instagram.com/jeniblo_dev/">
+    <img align="left" width="80px" src="insta.png" alt="instagram" style="vertical-align:top;">
+    </a> 
+</div>
 ## Hello Guys!
 ## Meu é **Diego de Souza** 
 
