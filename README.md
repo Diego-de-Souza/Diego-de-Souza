@@ -38,6 +38,7 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Diego-de-Souza/Diego-de-Souza?style=plastic)
+![Contador de Visitantes](https://profile-counter.glitch.me/{Diego-de-Souza}/count.svg)
 
 
 <div align="center">
