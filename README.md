@@ -32,7 +32,12 @@ Comecei minha carrera profissional como Técnico em Eletromecânica, depois me f
 Depois trabalhei com manutenção industrial, até gostei da correria, mas então resolvi ver videos de programação html e mobile, foi ai que deu aquele plim plim, dai em diante não parei mais e continuo aprendendo....um eterno adolescente na programação!
 
 </br>
+
+
 ----
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Diego-de-Souza/Diego-de-Souza?style=plastic)
 
 
 <div align="center">
