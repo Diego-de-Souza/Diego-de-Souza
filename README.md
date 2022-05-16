@@ -38,7 +38,6 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Diego-de-Souza/Diego-de-Souza?style=plastic)
-![Contador de Visitantes](https://profile-counter.glitch.me/{Diego-de-Souza}/count.svg)
 
 
 <div align="center">
@@ -84,4 +83,9 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 
 | <a href="https://github.com/Diego-de-Souza/github-readme-status"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&hide=issues,contribs&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Diego de Souza github stats"/></a> | <a href="https://github.com/Diego-de-Souza/github-readme-status"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&hide_border=true"/></a> |
 | ------------- | ------------- |
+
+
+#### Contador de visuzalizações de perfil
+
+![Contador de Visitantes](https://profile-counter.glitch.me/{Diego-de-Souza}/count.svg)
 
