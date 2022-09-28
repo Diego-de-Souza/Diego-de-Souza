@@ -87,7 +87,7 @@ E agora iniciei uma nova jornada no curso de engenharia da computação na FESA 
 
 
 <a href="https://github.com/Diego-de-Souza">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&show_icons=true&theme=algolia&hide_border=true">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&show_icons=true&theme=algolia&hide_border=true"> |
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-de-Souza&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats">    
 </a>
 | ------------- | ------------- |
