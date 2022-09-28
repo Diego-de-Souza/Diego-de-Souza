@@ -11,7 +11,7 @@
     <a href="https://www.facebook.com/diegodesouza102">
     <img align="left" width="40px" src="face.png" alt="facebook" style="vertical-align:top;">
     </a>
-    <a href="https://www.linkedin.com/in/diego-de-souza-50638282/">
+    <a href="https://www.linkedin.com/in/diego-de-souza-lima-50638282/">
     <img align="left" width="40px" src="linkedin.png" alt="linkedin" style="vertical-align:top;">
     </a>
     <a href="mailto:diegodesouza.souza@gmail.com">
@@ -30,6 +30,8 @@ Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia.
 Comecei minha carrera profissional como Técnico em Eletromecânica, depois me formei no curso superior como Tecnólogo em Mecatrônica Industrial onde conheci a programação, foi simplesmente amor a primeira codada, ao terminar a faculdade fui trabalhar com programação de CLP o que gosto, mas não propriamente o que eu queria.
 
 Depois trabalhei com manutenção industrial, até gostei da correria, mas então resolvi ver videos de programação html e mobile, foi ai que deu aquele plim plim, dai em diante não parei mais e continuo aprendendo....um eterno adolescente na programação!
+
+E agora iniciei uma nova jornada no curso de engenharia da computação na FESA - Faculdade Engenheiro Salvador Arena.
 
 </br>
 
@@ -50,7 +52,7 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 
 ### Ferramentas e tecnologias
 
-<code background-color="white"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Icone C"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Icone C"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="icone Html5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="icone CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Icone JavaScript"/></code>
@@ -63,6 +65,8 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Icone Android Studio"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Icone Kotlin"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Icone Reactjs"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 
 
 ### Programas
@@ -72,7 +76,7 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"/></code>
-<code></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" /></code>
 
  
 ----
@@ -81,7 +85,9 @@ Depois trabalhei com manutenção industrial, até gostei da correria, mas entã
 
 ---
 
-| <a href="https://github.com/Diego-de-Souza/github-readme-status"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&hide=issues,contribs&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Diego de Souza github stats"/></a> | <a href="https://github.com/Diego-de-Souza/github-readme-status"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&hide_border=true"/></a> |
+
+![Diego-de-Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&show_icons=true&theme=algolia&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-de-Souza&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 
