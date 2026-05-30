@@ -1,120 +1,109 @@
-<img align="right" width="250px" style="margin-top:-20px" src="./Diego_avatar.png">
-
-</br>
-</br>
-
-<div display="inline-block">
-    <h1 align="left" font-weight="700">Diego de Souza</h1>
-    <a href="https://github.com/Diego-de-Souza/Diego-de-Souza.git">
-    <img align="left" width="40px" src="insta.png" alt="instagram" style="vertical-align:top;">
-    </a> 
-    <a href="https://www.facebook.com/diegodesouza102">
-    <img align="left" width="40px" src="face.png" alt="facebook" style="vertical-align:top;">
-    </a>
-    <a href="https://www.linkedin.com/in/diego-de-souza-lima-50638282/">
-    <img align="left" width="40px" src="linkedin.png" alt="linkedin" style="vertical-align:top;">
-    </a>
-    <a href="mailto:diegodesouza.souza@gmail.com">
-    <img align="left" width="40px" src="email.png" alt="email" style="vertical-align:top;">
-    </a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2D79C7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AWS+Certified+Cloud+Practitioner;6%2B+anos+de+tecnologia;Engenharia+da+Computação+-+FESA" alt="Typing SVG" />
 </div>
 
-</br>
-</br>
-
----
-## Hello Devs!
-
-Nasci em 1988, moro em São Bernardo do Campo/SP, sou apaixonado por tecnologia. 
-
-Comecei minha carrera profissional como Técnico em Eletromecânica, depois me formei no curso superior como Tecnólogo em Mecatrônica Industrial onde conheci a programação, foi simplesmente amor a primeira codada, ao terminar a faculdade fui trabalhar com programação de CLP o que gosto, mas não propriamente o que eu queria.
-
-Depois trabalhei com manutenção industrial, até gostei da correria, mas então resolvi ver videos de programação html e mobile, foi ai que deu aquele plim plim, dai em diante não parei mais e continuo aprendendo....um eterno adolescente na programação!
-
-E agora iniciei uma nova jornada no curso de engenharia da computação na FESA - Faculdade Engenheiro Salvador Arena.
-
-</br>
-
-
-----
-
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Diego-de-Souza/Diego-de-Souza?style=plastic)
-
+<br/>
 
 <div align="center">
-<img align="right" width="200px" src="xero-code.gif" alt="codando" style="vertical-align:top;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
+
+---
+
+## 👨‍💻 Diego de Souza Lima
+
+**Full-Stack Developer** | Engenharia da Computação (FESA) | AWS Certified
+
+🎯 38 anos, São Bernardo do Campo/SP  
+🚀 6 anos de experiência em tecnologia + sólida bagagem em automação industrial  
+📚 Inglês avançado (leitura, escrita, conversação)  
+
 <div align="left">
-<img align="center" width="200px" src="code-coding.gif" alt="codando" style="vertical-align:top;">
+  <a href="https://www.linkedin.com/in/diego-de-souza-lima-50638282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:diegodesouza.souza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Diego-de-Souza">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
-</br>
-
-----
-
-### Ferramentas e tecnologias
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Icone C"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="icone Html5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="icone CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Icone JavaScript"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Mongoose"/></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs"/></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM"/></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket"/></code>
-
-         
-### Estou aprendendo
-           
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Icone Android Studio"/></code> 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Icone Kotlin"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Icone Reactjs"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" /></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="MongoDB"/></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="FireBase"/></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="Vercel"/></code>
-
-
-### Programas
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" /></code>
-
-
-### Certificações
-
-<code><img width="50px" src="./aws-certified-cloud-practitioner.png"/></code>
- 
-----
-
-:vulcan_salute: <p>Todos podem entrar em contato comigo pelo meios citados nos icones no topo deste Readme em baixo do meu nome, só tenham paciência porque posso demorar um pouco a responder, mas respondo!</p>
 
 ---
 
+## 🧠 Sobre mim
 
-<a href="https://github.com/Diego-de-Souza?tab=repositories">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&show_icons=true&theme=algolia&hide_border=true">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-de-Souza&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats">
+Profissional com transição única: comecei como **Técnico Eletromecânico e programador de CLP**, evoluí para **líder de manutenção industrial** e hoje atuo como **Desenvolvedor Full-Stack** focado em soluções robustas e escaláveis.
 
-</a>
+Essa bagagem me trouxe:
+- ✅ Pensamento analítico e estruturado
+- ✅ Experiência real com liderança e gestão de equipes
+- ✅ Capacidade de resolver problemas complexos sob pressão
+- ✅ Visão sistêmica (da automação à nuvem)
+
+Atualmente curso **Engenharia da Computação na FESA** e sigo estudando ecossistemas como **C#/.NET, WPF e Entity Framework** para ampliar meu leque técnico.
 
 ---
 
+## 🛠️ Stack principal
 
-#### Contador de visuzalizações de perfil
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Front-end** | Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, SASS |
+| **Back-end** | Node.js, NestJS, Java (Spring Boot), C# (em estudo) |
+| **Banco de dados** | PostgreSQL, MySQL, MongoDB, SQL Server, Sequelize |
+| **DevOps & Cloud** | AWS (Cloud Practitioner), Docker, Terraform, Vercel |
+| **Ferramentas** | Git, GitHub, VS Code, IntelliJ, Postman, Linux |
 
-![Contador de Visitantes](https://profile-counter.glitch.me/{Diego-de-Souza}/count.svg)
+---
 
+## 🏅 Certificações e formações
+
+- 🎓 **Engenharia da Computação** – FESA (2022–2027)  
+- 🎓 **Tecnólogo em Mecatrônica Industrial** – FESA (2017)  
+- ☁️ **AWS Certified Cloud Practitioner** (Amazon Web Services)  
+- 🐳 **Docker** – Udemy  
+- 📘 **Fullstack Developer** – DIO  
+- 📘 **Node.js Backend Development** – Udemy  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-de-Souza&show_icons=true&theme=algolia&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-de-Souza&layout=compact&theme=algolia&hide_border=true"/>
+</div>
+
+---
+
+## 📌 Diferenciais competitivos
+
+- 🔁 **Transição indústria → tech** (adaptabilidade comprovada)  
+- 🧠 **Liderança técnica** – já gerenciei equipes e projetos  
+- 🌍 **Inglês avançado** – documentação técnica e comunicação global  
+- 🧪 **Visão full cycle** – do embedded à cloud  
+- 📖 **Autodidata** – aprendo novas stacks com rapidez  
+
+---
+
+## 📫 Vamos conversar?
+
+Se você busca um profissional que une **rigor técnico, experiência industrial e mentalidade de aprendizado contínuo**, vamos trocar uma ideia.
+
+📧 diegodesouza.souza@gmail.com  
+📞 (11) 9.6196-9969  
+📍 São Bernardo do Campo/SP (home office disponível)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diego-de-Souza&color=2D79C7&style=flat-square&label=Visualizações+do+perfil"/>
+  <br/>
+  <sub>“Da automação industrial ao código – a mesma paixão por resolver problemas.”</sub>
+</div>
